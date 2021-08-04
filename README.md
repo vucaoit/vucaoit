@@ -35,7 +35,9 @@
 </p>
 <a href="https://github.com/vucaoit" align="start">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vucaoit&theme=gotham&hide_langs_below=1" alt="vucaoit" />
+    
     📈 My GitHub Stats
+    
     <p>
         <a href="https://github.com/vucaoit" align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vucaoit&show_icons=true&theme=gotham" alt="vucaoit" /> </a>
     </p>
