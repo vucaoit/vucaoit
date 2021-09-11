@@ -31,7 +31,6 @@
   <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
   <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
 
-<a href="https://github.com/vucaoit" align="start"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vucaoit&theme=gotham&hide_langs_below=1" alt="vucaoit" />
   
  📈 My GitHub Stats
 <p><a href="https://github.com/vucaoit" align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vucaoit&show_icons=true&theme=gotham" alt="vucaoit" />
