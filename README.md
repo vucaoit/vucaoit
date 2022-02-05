@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/vucaoit](github.com/vucaoit)
 
-- 📫 How to reach me **Vucaoit@gmail.com**
+- 📫 How to reach me **email : Vucaoit@gmail.com. Skype : caodev16**
 
 
 <h3 align="left">Connect with me:</h3>
